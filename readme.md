@@ -38,10 +38,11 @@
 ![腹灵CMK98 三模机械键盘](cmk98.webp)
 
 
-### AKAI MPK Mini MK3 MIDI键盘
+### (RESERVED) AKAI MPK Mini MK3 MIDI键盘
 #### 45EUR
 
 - 只能说不能太高看自己的水平
 - 出前会用酒精布擦拭消毒
+- RESERVED
 
 ![AKAI MPK MINI GEN3](akai_mpk_mini.png)
